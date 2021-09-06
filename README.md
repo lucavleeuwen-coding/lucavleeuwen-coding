@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucavleeuwen-coding
 - 👀 I’m interested in clean code
-- 🌱 I’m currently learning Java , Spring boot and as frontend I am learning Angular.
+- 🌱 I’m currently learning Java , Spring boot and on frontend I am learning Angular.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @codechaser.live (instagram)
 
